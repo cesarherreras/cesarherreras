@@ -1,16 +1,35 @@
 ### Hi there 👋
 
-<!--
-**cesarherreras/cesarherreras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Black Modern Personal LinkedIn Banner (2)](https://user-images.githubusercontent.com/86526979/192653354-3c66dbc7-5ca5-4891-bfb6-a1a6a705cc94.png)
 
-Here are some ideas to get you started:
+## 🌱 I’m currently learning
+💻 Backend:
+- Node.js
+- Express.js
+- Passport.js / JWT
+- Sequelize / Mongoose
+- graphQL
+- Automated testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Skills
+### Programing language (in order of highest to lowest experience):
+- JavaScript
+- Python
+- TypeScript
+- Bash
+
+### Developable enviroment:
+- Linux
+- Windows
+
+### Relational database management system:
+- PostgreSQL, MySQL 
+
+### No Relational database management system:
+- MongoDB
+
+### Frameworks or tecnologies:
+- Heroku
+- Docker
+- Pandas
+- Git
